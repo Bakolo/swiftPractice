@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "idiom" : "iphone",
+      "scale" : "1x",
+      "language-direction" : "right-to-left"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "language-direction" : "right-to-left"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "language-direction" : "right-to-left"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
